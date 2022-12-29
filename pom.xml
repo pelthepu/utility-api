@@ -8,10 +8,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pavan</groupId>
-	<artifactId>utility</artifactId>
+	<artifactId>todo</artifactId>
 	<version>1.0.0</version>
-	<name>utility</name>
-	<description>Utility project for Spring Boot</description>
+	<name>todo</name>
+	<description>Todo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

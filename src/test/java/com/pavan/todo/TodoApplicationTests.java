@@ -1,10 +1,10 @@
-package com.pavan.utility;
+package com.pavan.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UtilityApplicationTests {
+class TodoApplicationTests {
 
 	@Test
 	void contextLoads() {
